@@ -3,6 +3,7 @@
 Three exercises submitted as follows:
 
 # General Programming 
+(Committed in Python 3.6)
 1. The Fibonacci sequence is defined as a sequence of integers starting with 1 and 1, where each
 subsequent value is the sum of the preceding two. I.e.
 f(0) = 1
